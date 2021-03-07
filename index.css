@@ -1,0 +1,111 @@
+html{
+    height: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#whole{
+    background: #44A08D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #093637, #44A08D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #093637, #44A08D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+background-repeat: no-repeat; background-attachment: fixed;height: 100%; max-width: 100%; overflow-x: hidden;
+}
+
+#search-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#search-button-c{
+    color:#e6ffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    background:white;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding:0px;
+    border:none;
+    background:none;
+    display: inline-block;
+    outline: none;
+}
+
+#search-input-c{
+    border-style:none;
+    outline: none;
+    color: white;
+    border-bottom:3px;
+}
+
+#search-button-s{
+    color:#e6ffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    background:white;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding:0px;
+    border:none;
+    background:none;
+    display: inline-block;
+    outline: none;
+}
+
+#search-input-s{
+    border-style: none;
+    outline: none;
+    color: white;
+    border-bottom:3px;
+}
+
+#search-button-n{
+    color:#e6ffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    background:white;
+    border-radius: 5px;
+    margin-left: 5px;
+    padding:0px;
+    border:none;
+    background:none;
+    display: inline-block;
+    outline: none;
+}
+
+#search-input-n{
+    border-style: none;
+    outline: none;
+    color: white;
+    border-bottom:3px;
+}
+
+#last{
+    text-align: center;
+    color: white;
+    opacity: 50%;
+}
+
+#lastpo{
+    opacity: 70%;
+    text-align: center;
+    color: white;
+}
+
+#last #heart{
+    color: none;
+    opacity: none;
+}
+
+#llink{
+    text-decoration: none;
+    color: #ffffc9;
+}
+
+.display-1{
+
+    color: #ffffc9;
+}

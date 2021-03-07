@@ -1,4 +1,1 @@
 # Know-ASCII
-
-
-# On Process .......
