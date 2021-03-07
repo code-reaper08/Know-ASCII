@@ -12,7 +12,7 @@ It gives the ASCII value for Alphanumerics.
 ---
 ## How it works 
 
-It uses my own fake JSON API, called [ASCII-API](https://github.com/code-reaper08/ASCII-API), to fetch data and display it to the user when he gives input.
+It uses my own fake JSON API, called [ASCII-API](https://github.com/code-reaper08/ASCII-API), to fetch data and display it to the user when they gives input.
 
 To know more about my
  [ASCII-API](https://github.com/code-reaper08/ASCII-API),
@@ -20,6 +20,8 @@ To know more about my
 
 
 ---
+
+You can view the live deployment [here](https://code-reaper08.github.io/Know-ASCII/)
 
 ## License
 
