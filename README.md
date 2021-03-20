@@ -21,7 +21,7 @@ To know more about my
 
 ---
 
-You can view the live deployment [here](https://code-reaper08.github.io/Know-ASCI/)
+You can view the live deployment [here](https://code-reaper08.github.io/Know-ASCII/)
 
 ## License
 
